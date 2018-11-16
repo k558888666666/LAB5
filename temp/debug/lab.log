@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\desktop\yo\source\main.c(29): warning C4477: 'printf' : 格式字串 '%5s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'const int *'
+c:\users\user\desktop\yo\source\main.c(29): warning C4477: 'printf' : 格式字串 '%-8s' 需要 'char *' 類型的引數，但 variadic 引數 2 的類型為 'const int *'
+c:\users\user\desktop\yo\source\main.c(47): warning C4305: '正在初始化': 從 'int' 轉換為 'char'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  lab.vcxproj -> C:\Users\User\Desktop\yo\lab\lab\..\..\temp\debug\lab.exe
